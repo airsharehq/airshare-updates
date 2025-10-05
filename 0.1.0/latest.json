@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial release",
+  "pub_date": "2025-01-27T12:00:00Z",
+  "platforms": {
+    "darwin-arm64": {
+      "signature": "dGVzdC1zaWduYXR1cmUtZm9yLWRldmVsb3BtZW50LW9ubHktbm90LWZvci1wcm9kdWN0aW9u",
+      "url": "https://github.com/airsharehq/airshare/releases/download/v0.1.0/airshare_0.1.0_arm64.dmg"
+    },
+    "darwin-x86_64": {
+      "signature": "dGVzdC1zaWduYXR1cmUtZm9yLWRldmVsb3BtZW50LW9ubHktbm90LWZvci1wcm9kdWN0aW9u",
+      "url": "https://github.com/airsharehq/airshare/releases/download/v0.1.0/airshare_0.1.0_x64.dmg"
+    },
+    "windows-x86_64": {
+      "signature": "dGVzdC1zaWduYXR1cmUtZm9yLWRldmVsb3BtZW50LW9ubHktbm90LWZvci1wcm9kdWN0aW9u",
+      "url": "https://github.com/airsharehq/airshare/releases/download/v0.1.0/airshare_0.1.0_x64_en-US.msi"
+    },
+    "linux-x86_64": {
+      "signature": "dGVzdC1zaWduYXR1cmUtZm9yLWRldmVsb3BtZW50LW9ubHktbm90LWZvci1wcm9kdWN0aW9u",
+      "url": "https://github.com/airsharehq/airshare/releases/download/v0.1.0/airshare_0.1.0_amd64.AppImage"
+    }
+  }
+}
