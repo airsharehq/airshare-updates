@@ -5,19 +5,19 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUDZjSFJPRkQ4SDhMbjZsZEZ6T0FWZGV1WVlmdktzNnNneVhsQVVPeE1NTUZwZlQwQTkrR1BaTEpxZjhUT0xrZTgxeHhnekY1RGdaYlFmRHEyTEduTlFTMEpWRUJtVVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDMxNTU2CWZpbGU6YWlyc2hhcmUuYXBwLnRhci5negpkdnl1K2daY25JRHpRZW5qNEgyQ0FxY0lrN2hKOHRqQlhsWjF5bmJJR0tDak4zZkFRNGpZTm5UczBQM0pmS090Mm1SSlJFdmlmckZtZ0JIenFzZXVEUT09Cg==",
-      "url": "https://github.com/airsharehq/airshare-app/releases/download/v0.3.0/airshare_aarch64.app.tar.gz"
+      "url": "https://github.com/airsharehq/airshare-downloads/releases/download/v0.3.0/airshare_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUDZjSFJPRkQ4SHloeEVFSmVnZi8zWUd2clM0ZC9GVVVwd2t2Skw0a3NqU0JPYlo3RDBid0xkd3ZpU0RwZWphS3Rrc2NKcFVSSUEza3QxZ2dqa1FqbFFseDBYSjZ4ZXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDMxNTk5CWZpbGU6YWlyc2hhcmUuYXBwLnRhci5negpPRUNVMjc0cFJFbXRhL2dkcTA2S2xnQmZpeW5IQlVyWXkzQTBRTndTTCtkNHJmbGFJWTl0aDBIcGNlejYyNnV1dG81cmlmM1V2dDRod01WSEszbW5CUT09Cg==",
-      "url": "https://github.com/airsharehq/airshare-app/releases/download/v0.3.0/airshare_x64.app.tar.gz"
+      "url": "https://github.com/airsharehq/airshare-downloads/releases/download/v0.3.0/airshare_x64.app.tar.gz"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUDZjSFJPRkQ4SDhFbHlac1NrK0ZIQkJuMWh0eXdHRDNGcHhuaTA1YzJ3a2VDTVNWam54UGRLbXhQeGo0YlVSYlFYai9jZ3RZVUtNUWNFaVRGaWZ4RlNqb3QyazdKdFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDMyMTAzCWZpbGU6YWlyc2hhcmVfMC4xLjRfYW1kNjQuQXBwSW1hZ2UKUm1CUUdUKzVlb0FWREpKOCtSREZkbzFCbEhDQWlYVlliZ0ZCTnd6ZmwvbXpIM3VmVGlCcHIwQzBQY1ZuNWoyOVNqTFFXRWZsZG1RMkxOdGNLUHBoQlE9PQo=",
-      "url": "https://github.com/airsharehq/airshare-app/releases/download/v0.3.0/airshare_0.1.4_amd64.AppImage"
+      "url": "https://github.com/airsharehq/airshare-downloads/releases/download/v0.3.0/airshare_0.1.4_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSUDZjSFJPRkQ4SDR6SFN3bVR6SkIraUNReTVmd2NvNWkyamROREExTU1wN3dQUitGdlJFK3VNZFZWd1JmSWNyU05JV1Y1alBwc3d5bVpzUm1pZGd4UTBmNnJobVpYd0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwNDMyNDA2CWZpbGU6YWlyc2hhcmVfMC4xLjRfeDY0X2VuLVVTLm1zaQpFeGZTSkgySUFUaW9hMTY0QURJYXlmZmdKTDh1K01tOTRCZGZuMU55Ti8rMERWQldMY3pBVnpZSnFyZVYycmQ0L0k1TGluZkRmTHBGOVMzRXp4V0FEdz09Cg==",
-      "url": "https://github.com/airsharehq/airshare-app/releases/download/v0.3.0/airshare_0.1.4_x64_en-US.msi"
+      "url": "https://github.com/airsharehq/airshare-downloads/releases/download/v0.3.0/airshare_0.1.4_x64_en-US.msi"
     }
   }
 }
