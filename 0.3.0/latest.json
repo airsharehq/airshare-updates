@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.3.0",
   "notes": "See the changelog for this release.\n\n## Installation Notes\n\n### macOS\n- Download the `.dmg` file for your architecture:\n  - **Apple Silicon (M1/M2/M3)**: `aarch64.dmg`\n  - **Intel**: `x64.dmg`\n- Open the DMG and drag AirShare to Applications\n- **First Launch:** See `INSTALL.md` in the DMG for detailed instructions\n- **Quick Fix:** Right-click the app → \"Open\" → \"Open\" (bypasses unsigned app warning)\n\n### Windows\n- Download the `.msi` installer\n- **SmartScreen Warning:** Click \"More info\" → \"Run anyway\"\n- Follow the installation wizard\n- See included `README.txt` and `INSTALL.md` for details\n\n### Linux\n- **AppImage:** `chmod +x airshare_*.AppImage && ./airshare_*.AppImage`\n- **.deb Package:** `sudo dpkg -i airshare_*.deb`\n- Firewall setup may be needed - see included `INSTALL.md`\n- For mDNS discovery: ensure `avahi-daemon` is installed\n\n**Note:** All builds are cryptographically signed for secure auto-updates.",
   "pub_date": "2025-10-14T09:00:12.324Z",
   "platforms": {
